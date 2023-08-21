@@ -6,3 +6,10 @@
 
 
 3.git remote -v
+    List all the remote in the repo
+
+4.git remote remove origin
+    It removes remote from the local repo
+
+5.
+
