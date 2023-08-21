@@ -19,8 +19,17 @@
  7.git add .
    Adds all the changes to the git repo
 
-8. .gitignore
-    There are some files or floder that should not be committed and pushed to github. Such files and folder are kept in the  .gitignore files
+8.git commit -m "<commit-message>"
+
+9.git remote add origin <remote-ssh-link>
+
+10. git push -u origin main
+
+
+
+
+
+ Note : .gitignore :There are some files or floder that should not be committed and pushed to github. Such files and folder are kept in the  .gitignore files
 
 
 
