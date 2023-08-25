@@ -20,12 +20,10 @@ print(message[0:5])#'i am '
 print(message[3:8])#'m lea'
 print(message[4:])#' learning python'
 print(message[7: 2])#''
-print(message[-8:-2])#'g python'
+print(message[-8:-2])#'  pytho'
 print(message[-6:-8])#''
-print(message[3:-3])#'m learning pyt'
-print(message[9:-11])#''
-
-
+print(message[3:-3])#'m learning pyth'
+print(message[9:-11])#'n'
 print (message[3: 8: 2]) #'mla'
 
 #triple quote string

@@ -47,7 +47,7 @@ print(values) #dict_values(["jon",30,"KTM")
 
 #items
 items = student.items ()
-print(items) #dict_items(["name","jon") ,("
+print(items) #dict_items(["name","jon") ,("age","30"),("address","KTM")
 
 items = list (student.items())
 key,value = items[0]

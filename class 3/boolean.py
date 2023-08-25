@@ -1,4 +1,4 @@
-#true and false are the boolean types in pythin
+#true and false are the boolean types in python
 #true and flase are also the keywords in python
 
 

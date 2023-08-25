@@ -21,6 +21,20 @@ source venv/bin/activate(for mac and linux devices enter this command on termina
 4.pip freeze
 = It lists all the packages in the environment
 
+6. pip freeze > requirements.txt
+=List all the packages of the venv in requirement.txt file
+
+7.pip install -r requirements.txt
+=Recursively install all the package listed in the requirement.txt file
+
+8. pip uninstall <package name>
+=Uninstall a package from the venv
+
+9. pip install --upgrade pip
+= updrage the pip version
+
+
+
 
 
 #If we install a package with virtual environment activated,then the package is accessible for that environment only. it is not

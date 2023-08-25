@@ -35,7 +35,7 @@ print(message)
 
 
 message =" i'm learning python "
-message = 'he said ,"pythin is high lebel language"'
+message = 'he said ,"python is high lebel language"'
 
 message ='i\'m learning '
 message = "he said ,\"python is high level language \""
