@@ -1,5 +1,5 @@
 #class methods are those methods which takes class as the first argument.
-# It doesn't take "self" as a fjrst parameter.it takes 'cls '
+# It doesn't take "self" as a first parameter.it takes 'cls '
 #class methods can be useful in creating factory methods
 
 
@@ -22,7 +22,8 @@ print(p1.age)
 p2=person.age_from_year(1992)
 print(p2.age)
 
-
+p2 = person.grade(10)
+print(p2.grade)
 
 # Here "age_from_year" method is a class method and such type of method is also called as a
 # factory method
