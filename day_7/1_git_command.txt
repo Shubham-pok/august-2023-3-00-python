@@ -11,5 +11,8 @@
 4.git remote remove origin
     It removes remote from the local repo
 
-5.
+
+
+#pull Request
+1.Normally ,we s
 
